@@ -95,7 +95,7 @@ mvn clean install
 ### Using Maven:
 
 ```
-mvn test
+mvn clean test
 ```
 
 ---
